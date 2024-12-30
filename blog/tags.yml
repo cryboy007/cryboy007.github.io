@@ -1,0 +1,17 @@
+journal:
+  label: 日记
+  permalink: /journal
+  description: 记录日常生活中的点点滴滴
+
+veryHappy:
+  label: moodIndex
+  permalink: /veryHappy
+  description: 非常开心
+veryUnHappy:
+  label: moodIndex
+  permalink: /veryUnHappy
+  description: 非常不开心
+usual:
+  label: moodIndex
+  permalink: /usual
+  description: 平常
