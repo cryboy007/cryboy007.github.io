@@ -27,8 +27,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-CN',
-    locales: ['zh-CN', 'en'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -82,9 +82,9 @@ const config: Config = {
           label: 'Java',
         },
         {to: '/blog', label: '日记', position: 'left',},
-        {to: '/english', label: '英语', position: 'left'},
-        {to: '/note', label: '读书', position: 'left'},
-        {to: '/Investment', label: '投资', position: 'right'},
+        // {to: '/english', label: '英语', position: 'left'},
+        // {to: '/note', label: '读书', position: 'left'},
+        // {to: '/Investment', label: '投资', position: 'right'},
         {
           href: 'https://github.com/cryboy007',
           label: 'GitHub',
@@ -95,15 +95,6 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
@@ -142,6 +133,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  deploymentBranch: 'gh-pages', // 设置部署分支
 };
 
 export default config;
