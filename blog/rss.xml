@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>知识库 Blog</title>
+        <link>https://cryboy007.github.io/blog</link>
+        <description>知识库 Blog</description>
+        <lastBuildDate>Mon, 30 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[12-30]]></title>
+            <link>https://cryboy007.github.io/blog/2024/12/30/journal</link>
+            <guid>https://cryboy007.github.io/blog/2024/12/30/journal</guid>
+            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[happy]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="happy">happy<a href="https://cryboy007.github.io/blog/2024/12/30/journal#happy" class="hash-link" aria-label="Direct link to happy" title="Direct link to happy">​</a></h2>
+<p>我在学习使用并搭建docusaurus,这令我很愉快能够专注去学习新的知识.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="unhappy">unhappy<a href="https://cryboy007.github.io/blog/2024/12/30/journal#unhappy" class="hash-link" aria-label="Direct link to unhappy" title="Direct link to unhappy">​</a></h2>
+<p>我心心念念的一个姑娘,与她日日夜夜聊天有三个月之久了,她在无任何征兆下把任何我可以联系的方式都进行拉黑了,这让我久久不能释怀.哪怕我如此的挽留！希望能做一个朋友,换来的却是言语上的讽刺让我留点尊严,这一刻我觉得我的一切挽留都是笑话.这一刻心中没有任何波澜,这一刻没有一丝牵挂,机器似的点击删除.</p>
+<p>放下心结,迎接新的生活</p>]]></content:encoded>
+            <category>日记</category>
+            <category>moodIndex</category>
+        </item>
+    </channel>
+</rss>

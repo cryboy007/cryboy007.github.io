@@ -1,8 +1,0 @@
-docusaurus:
-  label: 'Docusaurus'
-  permalink: '/docusaurus'
-  description: 'Docs related to the Docusaurus framework'
-journal:
-  label: 'journal'
-  permalink: '/journal'
-  description: '记录每一天'
